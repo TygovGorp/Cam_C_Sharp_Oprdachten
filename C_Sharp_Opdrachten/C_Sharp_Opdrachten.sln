@@ -37,7 +37,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht_8", "Hoodstuk_2\Op
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hoofdstuk_3", "Hoofdstuk_3", "{98CC669E-DE59-4556-94F1-39FF8E1FA8CA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hoofstuk_4", "Hoofstuk_4", "{0B7E53FC-DF6C-401A-9037-77B55EE023E6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hoofdstuk_4", "Hoofdstuk_4", "{0B7E53FC-DF6C-401A-9037-77B55EE023E6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht_1", "Hoofdstuk_4\Opdracht_1\Opdracht_1.csproj", "{C7B6135A-373A-44D9-AC23-A8F3D2CBF594}"
 EndProject
