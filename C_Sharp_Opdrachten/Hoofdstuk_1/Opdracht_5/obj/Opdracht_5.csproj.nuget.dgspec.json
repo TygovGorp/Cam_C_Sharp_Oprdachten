@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_5\\Opdracht_5.csproj": {}
+    "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_5\\Opdracht_5.csproj": {}
   },
   "projects": {
-    "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_5\\Opdracht_5.csproj": {
+    "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_5\\Opdracht_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_5\\Opdracht_5.csproj",
+        "projectUniqueName": "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_5\\Opdracht_5.csproj",
         "projectName": "Opdracht_5",
-        "projectPath": "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_5\\Opdracht_5.csproj",
+        "projectPath": "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_5\\Opdracht_5.csproj",
         "packagesPath": "C:\\Users\\64016141\\.nuget\\packages\\",
-        "outputPath": "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_5\\obj\\",
+        "outputPath": "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\64016141\\AppData\\Roaming\\NuGet\\NuGet.Config",

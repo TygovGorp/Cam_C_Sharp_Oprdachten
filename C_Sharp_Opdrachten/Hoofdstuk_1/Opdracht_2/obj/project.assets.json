@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_2\\Opdracht_2.csproj",
+      "projectUniqueName": "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_2\\Opdracht_2.csproj",
       "projectName": "Opdracht_2",
-      "projectPath": "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_2\\Opdracht_2.csproj",
+      "projectPath": "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_2\\Opdracht_2.csproj",
       "packagesPath": "C:\\Users\\64016141\\.nuget\\packages\\",
-      "outputPath": "I:\\2324_ha5\\64016141_Tygo\\TygovGorp\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Opdracht_2\\obj\\",
+      "outputPath": "I:\\2324_ha5\\64016141_Tygo\\Cam_C_Sharp_Oprdachten\\C_Sharp_Opdrachten\\Hoofdstuk_1\\Opdracht_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\64016141\\AppData\\Roaming\\NuGet\\NuGet.Config",

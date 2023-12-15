@@ -1,0 +1,15 @@
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\bin\Debug\net6.0\Opdracht_7.exe
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\bin\Debug\net6.0\Opdracht_7.deps.json
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\bin\Debug\net6.0\Opdracht_7.runtimeconfig.json
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\bin\Debug\net6.0\Opdracht_7.dll
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\bin\Debug\net6.0\Opdracht_7.pdb
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.csproj.AssemblyReference.cache
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.GeneratedMSBuildEditorConfig.editorconfig
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.AssemblyInfoInputs.cache
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.AssemblyInfo.cs
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.csproj.CoreCompileInputs.cache
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.dll
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\refint\Opdracht_7.dll
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.pdb
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\Opdracht_7.genruntimeconfig.cache
+I:\2324_ha5\64016141_Tygo\Cam_C_Sharp_Oprdachten\C_Sharp_Opdrachten\Opdracht_7\obj\Debug\net6.0\ref\Opdracht_7.dll
